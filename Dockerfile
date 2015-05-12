@@ -1,5 +1,5 @@
-FROM nginx
-MAINTAINER MarvAmBass
+FROM cloudfleet/nginx
+# MAINTAINER MarvAmBass
 
 ENV LANG C.UTF-8
 
